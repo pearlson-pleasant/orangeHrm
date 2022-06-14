@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "NUNT2SI5GQndNb026gmjlZWqqW2RDUwsYtobuCW+34YlFqae8Zwd77Rwi4EeJ4+uhBcDjUovD9+dgjcRsmMz9g==",
+  "success": true,
+  "projectFilePath": "D:\\Sangeetha\\C#\\projects\\OrangeHRM\\OrangeHRM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\dotnetseleniumextras.pageobjects\\3.11.0\\dotnetseleniumextras.pageobjects.3.11.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.0.1\\dotnetseleniumextras.pageobjects.core.4.0.1.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\dotnetseleniumextras.waithelpers\\3.11.0\\dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\nunittestadapter.withframework\\2.0.0\\nunittestadapter.withframework.2.0.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\selenium.browser.automation.helpers\\1.0.3\\selenium.browser.automation.helpers.1.0.3.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\selenium.firefox.webdriver\\0.27.0\\selenium.firefox.webdriver.0.27.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\selenium.webdriver.chromedriver\\102.0.5005.2700\\selenium.webdriver.chromedriver.102.0.5005.2700.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sangeetha Saravanan\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
